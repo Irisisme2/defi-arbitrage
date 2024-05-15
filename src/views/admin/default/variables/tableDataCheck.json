@@ -1,0 +1,32 @@
+[
+  {
+    "name": ["Arbitrage Opportunity 1", false],
+    "tokenquantity": 2458,
+    "date": "12 Jan 2021",
+    "profit": 17.5
+  },
+  {
+    "name": ["DeFi Opportunity 2", true],
+    "tokenquantity": 1485,
+    "date": "21 Feb 2021",
+    "profit": 10.8
+  },
+  {
+    "name": ["Crypto Arbitrage 3", true],
+    "tokenquantity": 1024,
+    "date": "13 Mar 2021",
+    "profit": 21.3
+  },
+  {
+    "name": ["Opportunity 4", true],
+    "tokenquantity": 858,
+    "date": "24 Jan 2021",
+    "profit": 31.5
+  },
+  {
+    "name": ["Profitable Opportunity 5", false],
+    "tokenquantity": 258,
+    "date": "24 Oct 2022",
+    "profit": 12.2
+  }
+]

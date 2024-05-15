@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Opportunity 1",
+    "profit": "863",
+    "date": "18 Apr 2022",
+    "risk": 75.5  
+  },
+  {
+    "name":"Opportunity 2",
+    "profit": "124",
+    "date": "18 Apr 2022",
+    "risk": 25.5  
+  },
+  {
+    "name":"Opportunity 3",
+    "profit": "444",
+    "date": "20 May 2021",
+    "risk": 90  
+  },
+  {
+    "name":"Opportunity 4",
+    "profit": "41",
+    "date": "12 Jul 2021",
+    "risk": 50.5  
+  }
+]
