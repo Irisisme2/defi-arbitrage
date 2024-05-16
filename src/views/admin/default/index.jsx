@@ -46,6 +46,7 @@ import {
 } from "react-icons/md";
 import CheckTable from "views/admin/default/components/CheckTable";
 import ComplexTable from "views/admin/default/components/ComplexTable";
+import Button from "views/admin/default/components/Button";
 import Tokenstats from "views/admin/default/components/Tokenstats";
 import WeeklyRevenue from "views/admin/default/components/WeeklyRevenue";
 import {
@@ -144,7 +145,7 @@ export default function UserReports() {
       <SimpleGrid columns={1} gap="20px" mb="20px">
   <ComplexTable columnsData={columnsDataComplex} tableData={tableDataComplex} />
 </SimpleGrid>
-
+<Button></Button>
     </Box>
   );
 }

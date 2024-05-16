@@ -150,4 +150,5 @@ export default function CheckTable(props) {
       </Table>
     </Card>
   );
+  
 }

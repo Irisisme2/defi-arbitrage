@@ -1,0 +1,44 @@
+[
+  {
+    "tokenName": "Bitcoin",
+    "tokenSymbol": "BTC",
+    "tokenPrice": "$39,485.54",
+    "marketCap": "$738,752,579,899",
+    "volume24h": "$38,765,432,123"
+  },
+  {
+    "tokenName": "Ethereum",
+    "tokenSymbol": "ETH",
+    "tokenPrice": "$2,815.36",
+    "marketCap": "$325,912,548,753",
+    "volume24h": "$21,543,098,765"
+  },
+  {
+    "tokenName": "Ripple",
+    "tokenSymbol": "XRP",
+    "tokenPrice": "$1.11",
+    "marketCap": "$50,987,654,321",
+    "volume24h": "$4,567,890,123"
+  },
+  {
+    "tokenName": "Dogecoin",
+    "tokenSymbol": "DOGE",
+    "tokenPrice": "$0.32",
+    "marketCap": "$41,234,567,890",
+    "volume24h": "$3,456,789,012"
+  },
+  {
+    "tokenName": "Litecoin",
+    "tokenSymbol": "LTC",
+    "tokenPrice": "$185.91",
+    "marketCap": "$12,345,678,901",
+    "volume24h": "$987,654,321"
+  },
+  {
+    "tokenName": "Polkadot",
+    "tokenSymbol": "DOT",
+    "tokenPrice": "$24.82",
+    "marketCap": "$19,876,543,210",
+    "volume24h": "$876,543,210"
+  }
+]
